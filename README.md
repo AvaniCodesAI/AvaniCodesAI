@@ -14,10 +14,6 @@ I’m curious about technology and enjoy building tools that can help people in 
 
 ---
 
-### 💻 Projects In Progress
-- Python mini-projects (automation, small tools, CLI apps)  
-- GitHub practice repo (learning version control)  
-- Upcoming: data analysis and AI projects once foundations are strong  
 
 ---
 
